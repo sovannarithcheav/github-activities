@@ -1,0 +1,6 @@
+application:
+  token: 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
+  repos:
+    - soramitsukhmer/ncd-frontend
+    - soramitsukhmer/ncd-securities
+    - soramitsukhmer/ncs-transfer-processing-service
